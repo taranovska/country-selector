@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+ul {
+  padding-inline-start: 20px;
+  margin-block-start: 0;
+}
